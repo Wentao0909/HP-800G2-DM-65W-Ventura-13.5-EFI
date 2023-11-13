@@ -366,14 +366,14 @@
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
 				<data>FlkAAA==</data>
-				<key>model</key>
-				<string>Intel HD Graphics 530</string>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-unifiedmem</key>
 				<data>AAAwAQ==</data>
+				<key>model</key>
+				<string>Intel HD Graphics 530</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1D,0x0)/Pci(0x0,0x0)</key>
 			<dict>
@@ -1094,6 +1094,8 @@
 			<true/>
 			<key>HideAuxiliary</key>
 			<false/>
+			<key>InstanceIdentifier</key>
+			<string></string>
 			<key>LauncherOption</key>
 			<string>Full</string>
 			<key>LauncherPath</key>
@@ -1390,9 +1392,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07W13ZUJYVX</string>
+			<string>C07W10Q3JYVX</string>
 			<key>SystemUUID</key>
-			<string>BC794E27-6960-4856-8432-C2E5292B9C69</string>
+			<string>CFEA2386-6510-4C9E-94BE-4F993A95F44A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1667,6 +1669,8 @@
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
 			<key>ResizeUsePciRbIo</key>
+			<false/>
+			<key>ShimRetainProtocol</key>
 			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
