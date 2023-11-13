@@ -7,5 +7,6 @@
 - 网卡为免驱动博通无限网卡（暂时没到货，但驱动在
 - 有线网卡：intel i219-lm
 - 操作系统版本：13.5.1
+- 机型：Macmini8,1
 
 EFI文件来源：https://github.com/randyzhong/HP-EliteDesk-800-G2-DM-Hackintosh
